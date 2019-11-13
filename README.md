@@ -3,4 +3,4 @@ Machine learning algorithms such as logistic regression,decission tree and rando
 
 Aim is to predict winner of match.
 
-Found venue , toss winner and decission after winning toss are important factors for predicting winner
+Found venue , toss winner and decission after winning toss are important factors for predicting winner of match.
